@@ -90,7 +90,7 @@ Crie uma função total-final que:
 Exemplo de execução:
 
 ```
-Valor final da compra: 254.4
+Valor final da compra: 233.4
 ```
 
 5. Estrutura de código sugerida
